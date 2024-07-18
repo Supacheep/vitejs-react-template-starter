@@ -28,7 +28,7 @@ function App() {
   }
   
   const layoutStyle = {
-    overflow: 'hidden',
+    overflow: 'auto',
     width: '100vw',
     height: '100vh'
   }
